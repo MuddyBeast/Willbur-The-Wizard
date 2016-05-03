@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 0fdd6b75ff4af8e499e4b0f2cd1d0f3b
+timeCreated: 1458036324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wilbur_head
+    21300002: Wilbur_gameParts_4
+    21300004: Wilbur_gameParts_6
+    21300006: Wilbur_uper_arm
+    21300008: Wilbur_torso
+    21300010: Wilbur_under_arm
+    21300012: Wilbur_gameParts_11
+    21300014: Wilbur_hand
+    21300016: Wilbur_gameParts_13
+    21300018: Wilbur_gameParts_15
+    21300020: Wilbur_hipp
+    21300022: Wilbur_gameParts_18
+    21300024: Wilbur_gameParts_19
+    21300026: Wilbur_gameParts_20
+    21300028: Wilbur_upper_leg
+    21300030: Wilbur_gameParts_22
+    21300032: Wilbur_under_leg
+    21300034: Wilbur_fot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wilbur_head
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2061
+        width: 431
+        height: 588
+      alignment: 9
+      pivot: {x: .556683838, y: .432483077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_uper_arm
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1680
+        width: 90
+        height: 201
+      alignment: 9
+      pivot: {x: .468167454, y: .863455534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_torso
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1407
+        width: 260
+        height: 543
+      alignment: 9
+      pivot: {x: .664438248, y: .0613253824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_under_arm
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1494
+        width: 95
+        height: 156
+      alignment: 9
+      pivot: {x: .36429444, y: .812198758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_hand
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1308
+        width: 94
+        height: 101
+      alignment: 9
+      pivot: {x: .454284668, y: .741104603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_hipp
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1031
+        width: 257
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_upper_leg
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 658
+        width: 106
+        height: 250
+      alignment: 9
+      pivot: {x: .46830231, y: .896464586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_under_leg
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 329
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: .681992114, y: .897879601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wilbur_fot
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 117
+        width: 183
+        height: 78
+      alignment: 9
+      pivot: {x: .270500809, y: .823066115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
