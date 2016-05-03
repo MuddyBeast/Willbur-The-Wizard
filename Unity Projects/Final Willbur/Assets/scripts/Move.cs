@@ -27,9 +27,10 @@ public class Move : MonoBehaviour
 
     void Update()
     {
-        float moveHorizontal = 0f;//Input.GetAxis("Horizontal");
-        float xAxisMovement = 0f; 
-
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
+        float xAxisMovement = 0f;
+        rb.velocity = new Vector2(moveHorizontal * movementSpeed * Time.deltaTime, rb.velocity.y);
 
         if (!grounded && rb.velocity.y == 0)
         {
@@ -50,7 +51,7 @@ public class Move : MonoBehaviour
             xAxisMovement++; 
             if(xAxisMovement > 0)
             {
-                rb.velocity = new Vector2(moveHorizontal * movementSpeed * Time.deltaTime, rb.velocity.y); 
+                
             }
             buttonCount++;
 
